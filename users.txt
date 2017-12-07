@@ -1,0 +1,1 @@
+[{"name":"example","password":"user","twofactor":"disabled"},{"name":"noor","password":"1234","twofactor":"disabled"},{"name":"","password":"","twofactor":"disabled"},{"name":"abc","password":"$2a$08$VvUN.BXVnYiNoMmwwTmqZe7Z3RDJLZsceeau.98H9USRyiv.yiGk2","twofactor":"IZIGMZDVI5JFEYSCMY2D4M2WNRTCSRRP"}]
